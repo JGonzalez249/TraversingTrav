@@ -1,2 +1,4 @@
 # TraversingTrav
- UCF Workshop Project-TraversingTraveler-Lead Programmer
+ UCF Workshop Project
+ <p>TraversingTraveler</p>
+ <p>Lead Programmer</p>
